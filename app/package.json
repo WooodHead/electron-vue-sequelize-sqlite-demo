@@ -1,0 +1,21 @@
+{
+  "name": "vue-electron-demo",
+  "version": "0.0.0",
+  "description": "An electron-vue project",
+  "main": "./dist/main.js",
+  "dependencies": {
+    "babel-runtime": "^6.23.0",
+    "countup": "^1.8.2",
+    "element-ui": "^1.2.8",
+    "sequelize": "^3.30.4",
+    "sqlite3": "^3.1.8",
+    "vue": "^2.1.10",
+    "vue-echarts": "^2.3.3",
+    "vue-electron": "^1.0.6",
+    "vue-resource": "^1.0.3",
+    "vue-router": "^2.1.2",
+    "vuex": "^2.1.1"
+  },
+  "devDependencies": {},
+  "author": "beiguanyi <bgyhnddr@163.com>"
+}

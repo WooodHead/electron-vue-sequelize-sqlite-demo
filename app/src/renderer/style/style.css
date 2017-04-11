@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'LED';
+  src: url('./led.ttf');
+}
+
+.led {
+  font-family: LED
+}
